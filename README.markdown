@@ -48,7 +48,7 @@ Our overarching goals are clarity, consistency and brevity, in that order.
 * [Copyright Statement](#copyright-statement)
 * [Smiley Face](#smiley-face)
 * [References](#references)
-* [Babylon Addendum](#babylon-Addendum)
+* [Babylon Addendum](#babylon-addendum)
 
 ## Correctness
 
