@@ -48,7 +48,7 @@ Our overarching goals are clarity, consistency and brevity, in that order.
 * [Copyright Statement](#copyright-statement)
 * [Smiley Face](#smiley-face)
 * [References](#references)
-
+* [Babylon Addendum](#babylon-Addendum)
 
 ## Correctness
 
@@ -949,3 +949,7 @@ Smiley faces are a very prominent style feature of the [raywenderlich.com](https
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/swift/conceptual/swift_programming_language/index.html)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html)
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html)
+
+## Babylon Addendum
+
+* Methods/Functions with more than 3 parameters should be have a line break between parameters. (note: if you have more than 3 parameters, it's usually a code smell. In any case, if that's needed, consider the use of a configuration struct with the parameters)
